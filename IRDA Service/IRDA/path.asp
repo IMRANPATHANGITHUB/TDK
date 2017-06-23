@@ -1,1 +1,0 @@
-<%=Server.MapPath("path.asp") %>
