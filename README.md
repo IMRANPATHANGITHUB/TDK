@@ -1,2 +1,0 @@
-# TDK
-Oven Management System
